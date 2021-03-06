@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  hosting-api:
+  node:
     image: hosting-api
     container_name: hosting-api-container
     build:
